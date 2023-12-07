@@ -12,11 +12,10 @@ weight: 9
 * **Gender & Sex**: Please use a gender-neutral language. 
   * When referring to a generic person, avoid “he or she”, “he/she”, or s/he. Use “they” as a gender-neutral pronoun. 
   * If you refer to a specific person, first ask which gender they self-identify, and then use the pronoun that they are comfortable with. 
-  * Only refer to sex information (female/male/intersex) when the context is relevant, for example reporting participant information for human experiments in which biological factors (e.g.,  skin mechanics) may play a role in the findings. Otherwise, it is recommended to use genders that participants self-identify.\
+  * Only refer to sex information (female/male/intersex) when the context is relevant, for example reporting participant information for human experiments in which biological factors (e.g.,  skin mechanics) may play a role in the findings. Otherwise, it is recommended to use genders that participants self-identify.
   * Avoid positioning specific genders as “normal”, “abnormal”, or “anomaly”. 
 
-Source and more detailed information can be found:
-
+Source and more detailed information can be found:\
 <https://www.morgan-klaus.com/gender-guidelines.html>
 
 * **Disability**: Please avoid using offensive language.
@@ -42,9 +41,7 @@ Source and more detailed information can be found:
   * When referring to **motor disabilities**, terms such as “motor disability” or “physical disability” are acceptable. 
   * When referring to people with **cognitive disabilities**, be specific about the condition (e.g., autism, cerebral palsy, epilepsy, schizophrenia, depression). Avoid using the term “people with deficits”. 
 
-Source and more detailed information can be found:
-
-
+Source and more detailed information can be found:\
 <https://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-writing-guide/>
 
 ## Accessibility Guidance:
