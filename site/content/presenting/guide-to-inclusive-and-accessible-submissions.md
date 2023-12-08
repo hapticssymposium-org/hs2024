@@ -72,12 +72,12 @@ Please create a closed caption file for your videos. This section introduces how
 1. In the top-right corner, click “CREATE” and then “Upload videos”
 1. Select the file you’d like to upload
 1. Edit your video details
-   * In the “Details” tab, click “SHOW MORE” and set “Video language” to English. You may edit the other settings as you like.
-   * In the “Video elements” tab, click “ADD” at “Add subtitles” (if you skip this, you can edit it afterwards)
-   * Use either “Auto-sync” or “Type manually” to enter the captions
-   * After entering all the captions, check their accuracy with the preview panel on the right side
-   * In the “Checks” tab, check issues for your video
-   * In the “Visibility tab”, you may select the visibility option that you like (if you do not want to open your video to the public until the conference, do not select “Public”)
+   - In the “Details” tab, click “SHOW MORE” and set “Video language” to English. You may edit the other settings as you like.
+   - In the “Video elements” tab, click “ADD” at “Add subtitles” (if you skip this, you can edit it afterwards)
+   - Use either “Auto-sync” or “Type manually” to enter the captions
+   - After entering all the captions, check their accuracy with the preview panel on the right side
+   - In the “Checks” tab, check issues for your video
+   - In the “Visibility tab”, you may select the visibility option that you like (if you do not want to open your video to the public until the conference, do not select “Public”)
 1. Click “Content” on the left of [YouTube Studio](https://studio.youtube.com/channel/UCSLexDpxUfL44AB_341V3lg)
 1. Click the pen icon (“Details”) on the row with the video(s) you want to save (the icon is not visible until you hover over the table row)
 1. Click “Subtitles” on the left menu
