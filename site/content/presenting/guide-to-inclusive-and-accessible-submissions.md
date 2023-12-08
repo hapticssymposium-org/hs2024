@@ -83,7 +83,7 @@ Please create a closed caption file for your videos. This section introduces how
 7. Click “Subtitles” on the left menu
 8. Click the three dots icon (“Options”) on the row with the captions you want to save (the icon is not visible until you hover over the table row)
 9. Click “Download” and then click “.srt”
-10. Now, you have a closed caption file!hoge3
+10. Now, you have a closed caption file!
 
 Additional information about uploading to YouTube can be found [here](https://support.google.com/youtube/answer/57407#zippy=%2Cdetails%2Cmonetization%2Cad-suitability%2Cvideo-elements).
 
