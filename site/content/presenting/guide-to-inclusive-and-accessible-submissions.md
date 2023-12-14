@@ -74,8 +74,15 @@ Please create a closed caption file for your videos. This section introduces how
 
 <ol>
    <li>test1
-   <li>test2
-   <li>test3
+      <ul>
+        <li>test1.1</li>
+        <li>test1.2</li>
+        <li>test1.3</li>
+     </ul>
+   </li>
+
+   <li>test2</li>
+   <li>test3</li>
 </ol>
 
 1 Sign in to YouTube Studio
