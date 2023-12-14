@@ -72,11 +72,14 @@ We request that authors utilize both **written text** and **recorded narration**
 
 Please create a closed caption file for your videos. This section introduces how to create a closed caption file using [YouTube Studio](https://studio.youtube.com/channel/UCSLexDpxUfL44AB_341V3lg) (authors may create a new account for this purpose if they wish or use their existing account). Google Chrome is a recommended browser. Authors may also create a YouTube-supported closed caption file using alternative software.
 
+{{<oralPresentationVideoList>}}
+
 **1**. Sign in to YouTube Studio\
 **2**. In the top-right corner, click “CREATE” and then “Upload videos”\
 **3**. Select the file you’d like to upload\
 **4**. Edit your video details
-  * In the “Details” tab, click “SHOW MORE” and set “Video language” to English. You may edit the other settings as you like.
+
+  　　* In the “Details” tab, click “SHOW MORE” and set “Video language” to English. You may edit the other settings as you like.
   * In the “Video elements” tab, click “ADD” at “Add subtitles” (if you skip this, you can edit it afterwards)
 * Use either “Auto-sync” or “Type manually” to enter the captions
 * After entering all the captions, check their accuracy with the preview panel on the right side
