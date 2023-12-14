@@ -26,16 +26,9 @@ Source and more detailed information can be found:\
 
 Please avoid using offensive language.
 
-* Avoid using terms that equate people with their disability such as "quadriplegics", "the deaf", and "the disabled". Instead, use "people who use a wheelchair", "deaf people", "people who are deaf", and "people with disabilities".
+* Avoid using terms that **equate** people with their disability such as “quadriplegics”, “the deaf”, and “the disabled”. Instead, use “people who use a wheelchair”, “deaf people”, “people who are deaf”, and “people with disabilities”.
 
-* When referring to people with disabilities, do not use:
-  * normal and/or abnormal
-  * victim of _
-  * suffering from _
-  * afflicted with _
-  * defective
-  * trendy euphemisms. Expressions such as “physically challenged,” “special,” “differently abled,” and “handi-capable” generally are regarded by the disability community as patronizing and inaccurate.
-  * patients (use this word only when referring to people who are residing in a hospital or need medical attention).
+* When referring to people with disabilities, avoid terms such as “normal and/or abnormal”, “victim of _”, “suffering from _”, “afflicted with _”, “defective”, trendy euphemisms (Expressions such as “physically challenged”, “special”, “differently abled”, and “handi-capable” generally are regarded by the disability community as patronizing and inaccurate) and “patients” (use this word only when referring to people who are residing in a hospital or need medical attention).
 
 * When referring to people with a degree of **vision loss**, avoid terms such as “sight deficient”, “people with sight problems", “unsighted”, and “visually impaired”. When you need to specify a degree of vision loss, instead use “blind” or “low vision”. If you aim to indicate accessibility needs related to vision, try to be specific. For example, if you want to specify that your participants are screen readers, use “people who use screen readers as their primary means of accessing a computer”. 
 
