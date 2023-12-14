@@ -7,38 +7,48 @@ weight: 9
 
 ## Inclusivity Guidance
 
-* **Gender & Sex**: Please use a gender-neutral language. 
-* * When referring to a generic person, avoid “he or she”, “he/she”, or s/he. Use “they” as a gender-neutral pronoun. 
-  * If you refer to a specific person, first ask which gender they self-identify, and then use the pronoun that they use. 
-  * Only refer to sex information (female/male/intersex) when the context is relevant, for example reporting participant information for human experiments in which biological factors (e.g.,  skin mechanics) may play a role in the findings. Otherwise, it is recommended to use genders that participants self-identify.
-  * Avoid positioning specific genders as “normal”, “abnormal”, or “anomaly”. 
+### Gender & Sex
+
+Please use a gender-neutral language. 
+
+* When referring to a generic person, avoid “he or she”, “he/she”, or s/he. Use “they” as a gender-neutral pronoun.
+ 
+* If you refer to a specific person, first ask which gender they self-identify, and then use the pronoun that they use. 
+
+* Only refer to sex information (female/male/intersex) when the context is relevant, for example reporting participant information for human experiments in which biological factors (e.g.,  skin mechanics) may play a role in the findings. Otherwise, it is recommended to use genders that participants self-identify.
+
+* Avoid positioning specific genders as “normal”, “abnormal”, or “anomaly”. 
 
 Source and more detailed information can be found:\
 <https://www.morgan-klaus.com/gender-guidelines.html>
 
-* **Disability**: Please avoid using offensive language.
-  * Avoid using terms that equate people with their disability such as ‘quadriplegics,’ ‘the deaf,’ and ‘the disabled.’ Instead, use ‘people who use a wheelchair,’ ‘deaf people’ ‘people who are deaf,’ and ‘people with disabilities.’
-  * When referring to people with disabilities, do not use
-    \    normal and/or abnormal
-    \    victim of **__**
-    \    suffering from **__**
-    \    afflicted with **__**
-    \    defective
-    \    trendy euphemisms. Expressions such as “physically challenged,” “special,” “differently abled,” and “handi-capable” generally are regarded by the disability community as patronizing and inaccurate.
-    \    patients (use this word only when referring to people who are residing in a hospital or need medical attention).
-  * When referring to people with a degree of **vision loss**, avoid terms such as “sight deficient”, “people with sight problems", “unsighted”, and “visually impaired”. When you need to specify a degree of vision loss, instead use “blind” or “low vision”. If you aim to indicate accessibility needs related to vision, try to be specific. For example, if you want to specify that your participants are screen readers, use “people who use screen readers as their primary means of accessing a computer”. 
-  * When referring to people with a degree of **hearing loss**, avoid terms such as “deaf and mute”. It is also better to ask these individuals how they self-identify. Most deaf people prefer to be called “deaf”, “Deaf”, or “deaf and hard of hearing”. However, some elderly people who have lost their hearing ability, prefer to be referred to as “hearing impaired”. 
-  * When referring to people who use **wheelchairs**, avoid terms
-         "restricted to a wheelchair"
-         "confined to a wheelchair"
-         "wheelchair-bound"
-         "deformed"
-         "crippled"
-         "physically challenged"
-    Instead, use ”person who uses a wheelchair” or “wheelchair user”. 
-  * When referring to **motor disabilities**, terms such as “motor disability” or “physical disability” are acceptable. 
-  * When referring to people with **cognitive disabilities**, be specific about the condition (e.g., autism, cerebral palsy, epilepsy, schizophrenia, depression). Avoid using the term “people with deficits”.
-* **Telerobotics**: Please avoid using offensive language. 
+### Disability
+
+Please avoid using offensive language.
+
+* Avoid using terms that equate people with their disability such as "quadriplegics", "the deaf", and "the disabled". Instead, use "people who use a wheelchair", "deaf people", "people who are deaf", and "people with disabilities".
+
+* When referring to people with disabilities, do not use:
+  * normal and/or abnormal
+  * victim of _
+  * suffering from _
+  * afflicted with _
+  * defective
+  * trendy euphemisms. Expressions such as “physically challenged,” “special,” “differently abled,” and “handi-capable” generally are regarded by the disability community as patronizing and inaccurate.
+  * patients (use this word only when referring to people who are residing in a hospital or need medical attention).
+
+* When referring to people with a degree of **vision loss**, avoid terms such as “sight deficient”, “people with sight problems", “unsighted”, and “visually impaired”. When you need to specify a degree of vision loss, instead use “blind” or “low vision”. If you aim to indicate accessibility needs related to vision, try to be specific. For example, if you want to specify that your participants are screen readers, use “people who use screen readers as their primary means of accessing a computer”. 
+
+* When referring to people with a degree of **hearing loss**, avoid terms such as “deaf and mute”. It is also better to ask these individuals how they self-identify. Most deaf people prefer to be called “deaf”, “Deaf”, or “deaf and hard of hearing”. However, some elderly people who have lost their hearing ability, prefer to be referred to as “hearing impaired”. 
+
+* When referring to people who use **wheelchairs**, avoid terms such as “restricted to a wheelchair”, “confined to a wheelchair”, “wheelchair-bound”, “deformed”, “crippled”, and “physically challenged”. Instead, use “person who uses a wheelchair” or “wheelchair user”. 
+
+* When referring to **motor disabilities**, terms such as “motor disability” or “physical disability” are acceptable. 
+
+* When referring to people with **cognitive disabilities**, be specific about the condition (e.g., autism, cerebral palsy, epilepsy, schizophrenia, depression). Avoid using the term “people with deficits”.
+
+### Telerobotics
+Please avoid using offensive language. 
   * Avoid using “Master/Slave” terminology. Instead, use alternative terms, such as “Main/Secondary”, “Haptic Device/Remote Robot”, “Leader/Follower”, “Driver/Driven”, and “Teleoperating/Teleoperated”. 
 
 Source and more detailed information can be found:\
@@ -91,4 +101,6 @@ Additional information about uploading to YouTube can be found [here](https://su
 
 For Supplemental Videos published along with papers, authors should directly “burn” closed captions into the video due to technical limitations in IEEE Xplore. In other words, these captions are not provided as a text file, but rather as subtitles in the video itself (this is called “open captioning”, rather than “closed captioning” because the captions are always visible).
 
-If you have questions or need assistance with any of these activities, please reach out to the Equity, Diversity, and Inclusion Chairs <mailto:edi@hapticssymposium.org> or the Video Chair [videos@hapticssymposium.org](mailto:videos@hapticssymposium.org ).
+If you have any questions about the video accessibility described here, please contact the Video Chair [videos@hapticssymposium.org](mailto:videos@hapticssymposium.org )
+
+If you have questions or need assistance with any of these activities, please reach out to the Equity, Diversity, and Inclusion Chairs <mailto:edi@hapticssymposium.org>.
