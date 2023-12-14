@@ -72,6 +72,46 @@ We request that authors utilize both **written text** and **recorded narration**
 
 Please create a closed caption file for your videos. This section introduces how to create a closed caption file using [YouTube Studio](https://studio.youtube.com/channel/UCSLexDpxUfL44AB_341V3lg) (authors may create a new account for this purpose if they wish or use their existing account). Google Chrome is a recommended browser. Authors may also create a YouTube-supported closed caption file using alternative software.
 
+<style type="text/css">
+<!--
+   ol.parenth0 { margin: 0.5em 0; }
+   ol.parenth1 { margin: 0.5em 0 0.5em 1em;}
+   ol.parenth0, ol.parenth1 { 
+      counter-reset: itemp; 
+   }
+   ol.parenth0 * li, ol.parenth1 * li {
+      position: relative; 
+      top: 0; left: -1em; 
+      text-indent: 0em;
+   }
+   ol.parenth0 > li, ol.parenth1 > li {
+      display: block; position: relative; 
+      top: 0; left: -1em !important; 
+      text-indent: -1.45em !important;
+   }
+   ol.parenth0 > li::before, ol.parenth1 > li::before { 
+      content:"(" counter(itemp) ") "; 
+      counter-increment: itemp; 
+   }
+-->
+</style>
+
+<ol>
+   <li>表示テスト（１項目目）
+     <ol class="parenth1">
+        <li>表示テスト（１－１項目目）ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳ
+       ＴＵＶＷＱＸＹＺＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷ
+       ＱＸＹＺＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＱＸＹＺ
+        <li>表示テスト（１－２項目目）
+        <li>表示テスト（１－３項目目）
+     </ol>
+   <li>表示テスト（２項目目）
+     <ol class="parenth1">
+        <li>表示テスト（２－１項目目）
+        <li>表示テスト（２－２項目目）
+     </ol>
+</ol>
+
 1 Sign in to YouTube Studio
 
 2 In the top-right corner, click “CREATE” and then “Upload videos”
