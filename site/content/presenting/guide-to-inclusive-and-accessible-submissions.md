@@ -1,9 +1,17 @@
 ---
 title: Guide to Inclusive and Accessible Submissions
-description: ''
+description: >-
+  The IEEE Haptics Symposium is committed to creating an inclusive and
+  accessible environment for all participants. Therefore, authors are expected
+  to follow the IEEE Haptics Symposium Guide to Inclusive and Accessible
+  Submissions. By following this guide, authors can ensure that the widest
+  possible audience considers their work and that their findings are shared with
+  the broader community.
 weight: 9
 ---
 # Guide to Inclusive and Accessible Submissions
+
+The IEEE Haptics Symposium is committed to creating an inclusive and accessible environment for all participants. Therefore, authors are expected to follow the IEEE Haptics Symposium Guide to Inclusive and Accessible Submissions. By following this guide, authors can ensure that the widest possible audience considers their work and that their findings are shared with the broader community.
 
 ## Inclusivity Guidance
 
