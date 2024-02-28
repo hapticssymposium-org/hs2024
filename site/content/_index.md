@@ -4,6 +4,9 @@ image: /img/bg19.jpg
 ---
 **Welcome to IEEE Haptics Symposium 2024!**
 
+* title1  authors1
+* title2  authors2
+
 Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
 
 {{<simpleLineBreak>}}
