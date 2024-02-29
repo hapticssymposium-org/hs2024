@@ -1,10 +1,9 @@
 ---
 title: Oral Sessions
-weight: 2
-draft: true
 ---
 
 # (Tentative) Oral Sessions
+
 
 ## Session 1
 Perception and Psychophisics
