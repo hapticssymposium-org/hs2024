@@ -5,7 +5,7 @@ title: CCC| Frontiers of Softness in Science and Engineering
 Sunday, April 7, 9:00 a.m. - 12:30 p.m.  
 
 ## Organizers
-
+ 
 {{<organizerFlex>}}
   {{<cccOrganizer imFile="/img/hs2024_CCC-Okamoto.jpg" imWidth="100%" name="Shogo Okamoto" affiliation="Tokyo Metropolitan University">}}
   {{<cccOrganizer imFile="" imWidth="100%" name="Gregory J. Gerling" affiliation="The University of Virginia">}}
