@@ -1,11 +1,9 @@
 ---
 title: Work-in-Progress and Transactions on Haptics Poster Session
-weight: 5
-draft: true
 ---
 
 # Work-in-Progress and Transactions on Haptics Poster Session
-
+ 
 {{<simpleLastUpdate date="March 21, 2024">}}
 
 ## Work-in-Progress Session
